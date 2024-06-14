@@ -6,11 +6,11 @@
 
 * Of course you can check the code, but playing without checking the code is nicer!
 * Build with go
-```sh
-go build -o maze main.go
-```
+    ```sh
+    go build -o maze main.go
+    ```
 * Play
-```
-./maze
-```
+    ```
+    ./maze
+    ```
 
