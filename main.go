@@ -41,8 +41,8 @@ func main() {
     // init directions and ... the maze!
     directions := []string{"N", "S", "E", "W"}
     the_maze := []string{
-        "N", "W", "N", "W", "E", "N", "S" , "E" ,
-        "S" , "E" , "N" , "N" , "S" , "E",
+	"W", "N", "W", "N", "W", "N", "W", "N", "N", "N", "E", "N", "E", "E", "S", "E", 
+	"N", "E", "E", "S", "E", "S", "S", "S", "W", "S", "W", "S", "W", "S",
     }
 
     // navigation
