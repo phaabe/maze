@@ -63,12 +63,12 @@ func main() {
             }
         }
 
-        if position > len(the_maze) - 1{
+        if position > len(the_maze) {
             fmt.Println("Impossible")
             os.Exit(1)
         }
 
-        if position == len(the_maze) - 1{
+        if position == len(the_maze) {
             fmt.Println("Congratulations, that's the end of the maze! But do you remember your initial task?")
             os.Exit(1)
         }
