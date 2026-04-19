@@ -2,9 +2,9 @@
 - This is a little riddle!
 - I hope you enjoy it!
 
-- This is meant to be played by executing the binary without knowing what it is doing.
 
-- Of course, you can check the code, but playing without is nicer!
+- By security, I have to inform you to check the code before building!
+- It is not much code and the full solution is also not in the code :)
 - Build with go
     ```sh
     go build -o maze main.go
@@ -14,3 +14,4 @@
     ./maze
     ```
 
+`TODO: I think of having a list of people who solved it here.`
